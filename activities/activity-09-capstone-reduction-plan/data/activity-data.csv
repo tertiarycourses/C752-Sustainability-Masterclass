@@ -1,0 +1,15 @@
+source,baseline_tco2e,scope,data_quality,controllability
+Purchased aluminium,4200,3,low,medium
+Purchased electricity,2800,2,high,high
+Natural gas,1200,1,high,medium
+Freight,900,3,medium,medium
+Waste,500,3,medium,high
+Other,400,mixed,low,low
+
+initiative,annual_tco2e_reduction,capex_sgd,start_year,dependency
+Energy controls,420,160000,2026,Sub-metering
+Rooftop solar,520,720000,2027,Roof and grid study
+Heat recovery,310,430000,2027,Shutdown window
+Low-carbon aluminium,1450,250000 annual premium,2028,Supplier contract and PCF data
+Freight optimisation,260,90000,2026,Carrier data
+Waste yield programme,220,110000,2026,Process trials

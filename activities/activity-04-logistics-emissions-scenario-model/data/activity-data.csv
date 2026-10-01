@@ -1,0 +1,9 @@
+parameter,2025_value,unit,low_case,expected_case,high_case
+Vans,40,count,40,40,45
+Distance per van,35000,km/year,32000,35000,39000
+Diesel intensity,0.25,kgCO2e/km,0.23,0.25,0.28
+Annual demand growth,5,percent,3,5,7
+Route optimisation,0,percent reduction,5,10,14
+EV count by 2028,0,count,12,20,28
+EV electricity intensity,0.20,kWh/km,0.18,0.20,0.23
+Grid factor,0.402,kgCO2/kWh,0.32,0.38,0.42

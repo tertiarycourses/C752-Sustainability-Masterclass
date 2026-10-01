@@ -1,0 +1,5 @@
+load,annual_kwh,idle_share,possible_idle_reduction,capex_sgd,data_quality
+CNC cell,520000,0.22,0.35,85000,medium
+Compressed air,310000,0.31,0.40,60000,low
+Heat treatment,440000,0.12,0.20,95000,high
+HVAC,280000,0.18,0.25,45000,medium

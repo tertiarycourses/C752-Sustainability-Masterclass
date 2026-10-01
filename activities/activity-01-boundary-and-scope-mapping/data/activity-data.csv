@@ -1,0 +1,7 @@
+entity,activity,ownership_or_contract,annual_quantity,unit
+Singapore stores,Purchased electricity,Operational control,1840000,kWh
+Warehouse,Diesel backup generator,Operational control,18000,litres
+Head office,Purchased electricity,Leased premises,210000,kWh
+Delivery,Contracted last-mile fleet,Service contract,940000,vehicle-km
+Malaysia subsidiary,Manufacturing electricity,80 percent equity,1250000,kWh
+Stores,Refrigerant top-up,Operational control,310,kg

@@ -1,0 +1,7 @@
+initiative,capex_sgd,annual_saving_sgd,annual_tco2e,lifetime_years,feasibility_1_5,strategy_1_5,confidence_1_5,dependency
+Compressed-air controls,90000,42000,120,8,5,3,4,None
+Rooftop solar,360000,56000,190,20,4,4,4,Roof assessment
+EV forklifts,150000,28000,70,10,4,3,3,Charging
+Supplier PCF programme,110000,5000,260,5,3,5,2,ERP master data
+Low-carbon aluminium,280000,-40000,430,5,2,5,2,Supplier contract
+IoT energy platform,180000,35000,95,7,3,4,3,Metering architecture

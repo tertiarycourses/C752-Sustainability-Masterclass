@@ -1,0 +1,5 @@
+source,annual_activity,unit,illustrative_factor,calculated_tco2e,evidence_owner
+Natural gas boilers,128000000,MJ,0.0561 kgCO2e/MJ,,Utilities manager
+Process reaction,11800,t product,0.82 tCO2e/t,,Process engineer
+Refrigerant leakage,240,kg,1430 kgCO2e/kg,,Facilities manager
+Diesel emergency generators,62000,litres,2.68 kgCO2e/litre,,Facilities manager

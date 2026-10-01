@@ -1,0 +1,4 @@
+persona,home_kwh_month,car_km_week,public_transport_km_week,flights_hours_year,food_pattern,waste_level
+Persona A,320,0,140,8,mixed,medium
+Persona B,480,180,40,18,high meat,high
+Persona C,220,0,220,2,plant rich,low
